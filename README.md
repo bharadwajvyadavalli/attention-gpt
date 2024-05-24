@@ -28,8 +28,8 @@ This repository contains an implementation of a GPT (Generative Pretrained Trans
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gpt-language-model.git
-   cd gpt-language-model
+   git clone https://github.com/bharadwajvyadavalli/attention-gpt.git
+   cd attention-gpt
    ```
 
 2. Install the required packages:
